@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XorP/P+QTiKthuI/wfLVAFWiwWOEKwyVDzdNkMaNYMs=",
+  "Source": "MessageGateway",
+  "BasePath": "_content/MessageGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

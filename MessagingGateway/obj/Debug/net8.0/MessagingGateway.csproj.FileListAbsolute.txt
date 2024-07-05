@@ -1,0 +1,7 @@
+C:\Users\mluise\source\repos\MessagingGateway\obj\Debug\net8.0\MessagingGateway.csproj.AssemblyReference.cache
+C:\Users\mluise\source\repos\MessagingGateway\obj\Debug\net8.0\MessagingGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mluise\source\repos\MessagingGateway\obj\Debug\net8.0\MessagingGateway.AssemblyInfoInputs.cache
+C:\Users\mluise\source\repos\MessagingGateway\obj\Debug\net8.0\MessagingGateway.AssemblyInfo.cs
+C:\Users\mluise\source\repos\MessagingGateway\obj\Debug\net8.0\MessagingGateway.csproj.CoreCompileInputs.cache
+C:\Users\mluise\source\repos\MessagingGateway\obj\Debug\net8.0\MessagingGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mluise\source\repos\MessagingGateway\obj\Debug\net8.0\MessagingGateway.MvcApplicationPartsAssemblyInfo.cache
