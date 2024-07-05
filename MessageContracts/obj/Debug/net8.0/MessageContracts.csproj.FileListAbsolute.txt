@@ -1,0 +1,11 @@
+C:\Users\mluise\source\repos\MessageContracts\bin\Debug\net8.0\MessageContracts.deps.json
+C:\Users\mluise\source\repos\MessageContracts\bin\Debug\net8.0\MessageContracts.dll
+C:\Users\mluise\source\repos\MessageContracts\bin\Debug\net8.0\MessageContracts.pdb
+C:\Users\mluise\source\repos\MessageContracts\obj\Debug\net8.0\MessageContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mluise\source\repos\MessageContracts\obj\Debug\net8.0\MessageContracts.AssemblyInfoInputs.cache
+C:\Users\mluise\source\repos\MessageContracts\obj\Debug\net8.0\MessageContracts.AssemblyInfo.cs
+C:\Users\mluise\source\repos\MessageContracts\obj\Debug\net8.0\MessageContracts.csproj.CoreCompileInputs.cache
+C:\Users\mluise\source\repos\MessageContracts\obj\Debug\net8.0\MessageContracts.dll
+C:\Users\mluise\source\repos\MessageContracts\obj\Debug\net8.0\refint\MessageContracts.dll
+C:\Users\mluise\source\repos\MessageContracts\obj\Debug\net8.0\MessageContracts.pdb
+C:\Users\mluise\source\repos\MessageContracts\obj\Debug\net8.0\ref\MessageContracts.dll
